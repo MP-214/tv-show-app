@@ -34,10 +34,14 @@ Below are the list which we have used to develop our application:
 
 ## Step to see the running application with the following screenshot
 
-- ![Display Home Page](images/home.PNG "After run npm install")
-- ![Display Search](images/search.PNG "Click on Learn More button")
-- ![Display the list of Season](images/drama.PNG "Display and Hightlight the list of Season")
-- ![Display the list of Season](images/details.PNG "Display and Hightlight the list of Season")
+- ## Home Page:
+- ![Display Home Page](src/images/home.PNG "After run npm install")
+- ## Search Bar:
+- ![Display Search](src/images/search.PNG "Click on Learn More button")
+- ## Drama Link Tab:
+- ![Display the list of Season](src/images/drama.PNG "Display and Hightlight the list of Season")
+- ## Details:
+- ![Display the list of Season](src/images/details.PNG "Display and Hightlight the list of Season")
 
 ## Installation of Application
 
